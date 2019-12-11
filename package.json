@@ -1,0 +1,39 @@
+{
+  "name": "gatsby-starter-notion",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Gatsby and Notion",
+  "version": "0.1.0",
+  "author": "Mayne Yao <dreama9ain@gmail.com>",
+  "dependencies": {
+    "gatsby": "^2.18.8",
+    "gatsby-plugin-manifest": "^2.2.31",
+    "gatsby-plugin-offline": "^3.0.27",
+    "gatsby-plugin-react-helmet": "^3.1.16",
+    "gatsby-source-notion-database": "^0.6.9",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayneyao/gatsby-starter-notion"
+  },
+  "bugs": {
+    "url": "https://github.com/mayneyao/gatsby-starter-notion/issues"
+  }
+}
