@@ -21,16 +21,16 @@ yarn develop
 + A simple blog application. Contains article list, article details, book single page.
 + Use Notion Database as the data source.
 + Supports Relation in Notion Database.
-+ Simple pagination demo to dynamically create article detail pages. See: gatsby-node.js
++ Simple pagination demo to dynamically create article detail pages. See: [gatsby-node.js](gatsby-node.js)
 
 ## Configuration
 
-Two tables are configured by default and they are interrelated. Are
+Two tables are configured by default and they are interrelated.
 
 + posts - blog posts table
 + books - books table
 
-You can find these 2 tabels on [this page](https://www.notion.so/gatsby-starter-notion-2c5e3d685aa341088d4cd8daca52fcc2).
+You can find these 2 tables on [this page](https://www.notion.so/gatsby-starter-notion-2c5e3d685aa341088d4cd8daca52fcc2).
 
 ```js
 // gatsby-config.js
