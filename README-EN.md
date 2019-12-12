@@ -2,9 +2,9 @@
 
 [English Doc](README-EN.md) | [中文文档](README.md)
 
-This is a starter pack to help you quickly build your site with Gatsby.js & Notion.so
+This is a starter kit to help you quickly build your site with Gatsby.js & Notion.so
 
-Built-in [gatsby-source-notion-database] (https://github.com/mayneyao/gatsby-source-notion-database) plugin, which converts data in Notion Database into Graphql data nodes available in Gatsby.
+Built-in [gatsby-source-notion-database](https://github.com/mayneyao/gatsby-source-notion-database) plugin, which converts data in Notion Database into Graphql data nodes available in Gatsby.
 
 Demo site: https://gatsby-stater-notion.netlify.com/
 
@@ -30,7 +30,7 @@ Two tables are configured by default and they are interrelated. Are
 + posts - blog posts table
 + books - books table
 
-You can find these 2 tabels on [this page] (https://www.notion.so/gatsby-starter-notion-2c5e3d685aa341088d4cd8daca52fcc2).
+You can find these 2 tabels on [this page](https://www.notion.so/gatsby-starter-notion-2c5e3d685aa341088d4cd8daca52fcc2).
 
 ```js
 // gatsby-config.js
