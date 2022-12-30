@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Mayne Yao <dreama9ain@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.18.8",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-manifest": "^2.2.31",
     "gatsby-plugin-offline": "^3.0.27",
     "gatsby-plugin-react-helmet": "^3.1.16",
